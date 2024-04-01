@@ -2,5 +2,5 @@
 int main(){
     printf("Hello");
     printf("Hell");
-    printf("Hellouu");
+    printf("He");
 }
